@@ -11,4 +11,4 @@ The assignment asks to code a generator for a randomized password that consists 
 - Added conditionals
 - Created an empty array
 
-Deployment Application Link: https://carolynngo11.github.io/password-generator/
+Deployment Application Link: https://carolynngo11.github.io/password-generator-backup/
