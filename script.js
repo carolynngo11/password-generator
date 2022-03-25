@@ -64,7 +64,6 @@ var generateBtn = document.querySelector("#generate");
     var result = [];
     
   // 6. Join the character arrays together based on user input
-  
 
   // 7. Randomize characters from the joined array
 
