@@ -16,16 +16,8 @@ var generateBtn = document.querySelector("#generate");
   // uppercaseCharacters array
   var uppercaseCharacters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
 
-  // Write password to the #password input
-  function writePassword() {
-    var password = generatePassword();
-    var passwordText = document.querySelector("#password");
-    passwordText.value = password;
-  
-  }
-  
   // Add event listener to generate button
-  generateBtn.addEventListener("click", writePassword);
+generateBtn.addEventListener("click", writePassword);
   
 
   // 3. generatePassword function -- take user input, grab characters from array and generate password
@@ -68,3 +60,12 @@ var generateBtn = document.querySelector("#generate");
   // 7. Randomize characters from the joined array
 
   // 8. Transforming the array into a string
+
+  // Write password to the #password input
+  function writePassword() {
+    var password = generatePassword();
+    var passwordText = document.querySelector("#password");
+    passwordText.value = password;
+  
+  }
+  
