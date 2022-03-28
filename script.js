@@ -22,9 +22,7 @@ generateBtn.addEventListener("click", writePassword);
 
   // 3. generatePassword function -- take user input, grab characters from array and generate password
   function generatePassword(){
-
-  }
-
+ 
   // 4. Use randomizer function to select characters from each array
     // alert, confirm, prompt
     var passwordLength = prompt("How many characters would you like for your password? (Limit: 8 - 128 characters)");
@@ -32,7 +30,7 @@ generateBtn.addEventListener("click", writePassword);
     var upperCase = confirm ("Would you like to include uppercase characters?")
     var numeric = confirm ("Would you like to include numeric characters?")
     var special = confirm ("Would you like to include special characters?")
-
+    }
   
     // Use conditionals to validate inputs (password length, use enters no inputs)
     if (lowerCase){
@@ -58,8 +56,6 @@ generateBtn.addEventListener("click", writePassword);
   // 6. Join the character arrays together based on user input
 
   // 7. Randomize characters from the joined array
-
-  // 8. Transforming the array into a string
 
   // Write password to the #password input
   function writePassword() {
