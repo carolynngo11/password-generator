@@ -13,4 +13,4 @@ The assignment asks to code a generator for a randomized password that consists 
 
 ![coding](https://user-images.githubusercontent.com/99929883/160480958-7c2593bf-14e4-4c0d-800d-7d2a2e84e253.jpg)
 
-Deployment Application Link: https://carolynngo11.github.io/password-generator-backup/
+Deployment Application Link: https://carolynngo11.github.io/password-generator/
