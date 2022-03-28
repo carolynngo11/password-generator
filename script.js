@@ -64,4 +64,3 @@ generateBtn.addEventListener("click", writePassword);
     passwordText.value = password;
   
   }
-  
