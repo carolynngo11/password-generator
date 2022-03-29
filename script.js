@@ -22,6 +22,7 @@ var generateBtn = document.querySelector("#generate");
     var passwordText = document.querySelector("#password");
     passwordText.value = password;
   }
+
   // 3. Create an empty array that represents the final password
     var resultArray = [];
     var emptyArray = [];
