@@ -28,7 +28,6 @@ var generateBtn = document.querySelector("#generate");
 
   // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
-  
 
   // 4. generatePassword function -- take user input, grab characters from array and generate password
     // 5. Use randomizer function to select characters from each array
@@ -61,7 +60,6 @@ generateBtn.addEventListener("click", writePassword);
           if (specialCharacters){
       resultArray = resultArray.concat(special);
     }
-
 
     // 6. Join the character arrays together based on user input
     // 7. Randomize characters from the joined array
