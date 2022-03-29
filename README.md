@@ -10,7 +10,8 @@ The assignment asks to code a generator for a randomized password that consists 
 - Added confirm and a prompt
 - Added conditionals
 - Created an empty array
+- Created randomizer
 
-![coding](https://user-images.githubusercontent.com/99929883/160480958-7c2593bf-14e4-4c0d-800d-7d2a2e84e253.jpg)
+![passsword-generator-screenshot](https://user-images.githubusercontent.com/99929883/160530907-482b4e3c-7e66-4667-876f-98be7805f203.jpg)
 
 Deployment Application Link: https://carolynngo11.github.io/password-generator/
